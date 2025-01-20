@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate developer, engineer, and lifelong learner diving deep into data science, machine learning, and AI. Here you'll find a mix of projects, explorations, and practical applications reflecting my interests and growth.
 
 ---
-
 ## 🛠️ About Me
 
 - **Engineer turned Data Scientist in the Making**: With a background in mechanical engineering, I’m transitioning into the world of data science and AI, bringing a strong foundation in problem-solving and system analysis.
@@ -13,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer, engineer, and lifelong
 ## 🔭 Current Projects
 
 - TBD
-
 ---
 
 ## 📚 What I’m Learning
@@ -21,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer, engineer, and lifelong
 - **Neural Networks and Deep Learning**: Backpropagation, initialization techniques, and training optimizations.
 - **NLP**: Planning to explore natural language processing in the coming months after finishing my foundational studies.
 - **AI on Edge Devices**: Setting up and deploying models on the NVIDIA Jetson Nano.
-
 
 ## 🚀 Skills and Tools
 
@@ -35,13 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer, engineer, and lifelong
 - TensorFlow/Keras (beginner)
 - Flask
 - LangChain
-
-### Tools
-- Docker
-- NVIDIA Jetson Nano
-- Git
-
-
 
 Thanks for stopping by! 😊
 
